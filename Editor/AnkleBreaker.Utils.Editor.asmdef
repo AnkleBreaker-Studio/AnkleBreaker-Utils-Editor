@@ -1,0 +1,16 @@
+{
+    "name": "AnkleBreaker.Utils.Editor",
+    "rootNamespace": "AnkleBreaker.Utils.Editor",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
