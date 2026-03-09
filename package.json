@@ -1,17 +1,19 @@
 {
-    "name": "com.anklebreaker-studio.utils.editor",
-    "version": "1.0.0",
-    "displayName": "AnkleBreaker-studio Utils Editor",
-    "description": "Editor utilities for Unity: Gizmos helpers, MonoScript finder, dialog windows. Part of the AnkleBreaker Utils split.",
-    "unity": "2022.3",
-    "type": "library",
-    "repository": {
-        "url": "https://github.com/AnkleBreaker-Studio/AnkleBreaker-Utils-Editor.git",
-        "type": "git"
-    },
-    "author": {
-        "name": "AnkleBreaker-studio",
-        "url": "https://www.anklebreaker-studio.com"
-    },
-    "dependencies": {}
+  "name": "com.anklebreaker-studio.utils.editor",
+  "version": "1.0.0",
+  "displayName": "AnkleBreaker Studio - Utils Editor",
+  "description": "Editor utilities for Unity: Gizmos helpers, MonoScript finder, dialog windows. Part of the AnkleBreaker Utils split.",
+  "unity": "2022.3",
+  "type": "library",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/AnkleBreaker-Studio/AnkleBreaker-Utils-Editor.git",
+    "type": "git"
+  },
+  "author": {
+    "name": "AnkleBreaker Studio",
+    "email": "contact@anklebreaker-studio.com",
+    "url": "https://www.anklebreaker-studio.com"
+  },
+  "dependencies": {}
 }
